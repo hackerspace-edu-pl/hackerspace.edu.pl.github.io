@@ -9,7 +9,7 @@ hackerspace to projekt mający na celu organizacje naszej pracy w utrzymaniu i d
 zakres naszej pracy
 -------------------
 
-było by bardzo trudno wypisać tu wszystkie poszczególne tematy, pomocne może okazać się zapoznanie ze spisem zagadnień, który jest sukcesywnie rozwijany wraz postępem migracji z poprzedniego systemu organizacji dokumentacji.
+było by bardzo trudno wypisać tu wszystkie poszczególne tematy, pomocne może okazać się zapoznanie ze spisem zagadnień, który jest sukcesywnie rozwijany wraz z postępem migracji poprzedniego systemu organizacji dokumentacji.
 
 nasze serwisy
 -------------
