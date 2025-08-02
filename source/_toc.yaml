@@ -6,6 +6,6 @@ entries:
   - file: examples
   - file: manual
   - title: Docs on GitHub
-    url: https://github.com/rst2pdf/rst2pdf.github.io
-  - title: rst2pdf on GitHub
-    url: https://github.com/rst2pdf/rst2pdf
+    url: https://github.com/ostree/hackerspace.edu.pl.github.io
+  - title: hackerspace on GitHub
+    url: https://github.com/ostree/hackerspace.edu.pl
