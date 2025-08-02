@@ -15,3 +15,8 @@ nasze serwisy
 -------------
 
 w spisie tematów znajdują się także odnośniki do naszego repozytorium kodu, systemu wyszukiwania informacji, systemu kursów, build serwera naszej dystrybucji systemu operacyjnego GNU/ZEN opartego na gentoo Linux oraz inne...
+
+serwisy zaufane
+---------------
+
+podobnie jak CCC oferujemy dostęp do usług za pomocą zabezpieczonych kanałów komunikacji aby ograniczyć prawdopodobieństwo naruszenia principia CIA oraz w celu integracji z zaprzyjaźnionymi serwisami.
