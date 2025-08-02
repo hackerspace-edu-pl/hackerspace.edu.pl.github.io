@@ -1,6 +1,11 @@
 hackerspace.edu.pl
 ==================
 
+.. image:: https://hackerspace.edu.pl/_static/logo.png
+   :align: left
+   :height: 98
+   :width: 120
+
 hackerspace
 -----------
 
