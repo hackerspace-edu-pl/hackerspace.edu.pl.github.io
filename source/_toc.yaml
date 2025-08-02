@@ -5,3 +5,5 @@ defaults:
 entries:
   - title: repozytorium kodu
     url: https://git.hackerspace.edu.pl
+  - title: nasze kursy
+    url: https://code.hackerspace.edu.pl
