@@ -14,7 +14,7 @@ było by bardzo trudno wypisać tu wszystkie poszczególne tematy, pomocne może
 nasze serwisy
 -------------
 
-w spisie tematów znajdują się także odnośniki do naszego repozytorium kodu, systemu wyszukiwania informacji, systemu kursów, build serwera naszej dystrybucji systemu operacyjnego GNU/ZEN opartego na gentoo Linux oraz inne...
+w spisie tematów znajdują się także odnośniki do naszego repozytorium kodu, systemu wyszukiwania informacji, systemu kursów, build serwera naszej dystrybucji systemu operacyjnego GNU/BLUECORE-禅 opartego na gentoo Linux oraz inne...
 
 serwisy zaufane
 ---------------
