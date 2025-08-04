@@ -3,17 +3,10 @@ defaults:
   titlesonly: True
 subtrees:
 - caption: User Guide
-  numbered: true
   entries:
   - file: guides/_index
   - file: guides/databases/_index
-  - file: guides/
-- caption: Example
-  entries:
-  - file: example/index
-    entries:
-    - file: example/subfolder/page
-    - glob: example/globfolder/*
+  - file: guides/email/_index
 - caption: Links
 entries:
   - title: repozytorium kodu
