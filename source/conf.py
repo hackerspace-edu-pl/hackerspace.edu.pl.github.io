@@ -22,7 +22,6 @@ extensions = [
    "sphinx_copybutton",
    "sphinx_external_toc",
    "rst2pdf.pdfbuilder",
-   "noop" # used to ignore specific directives to make the HTML manual
        # Sphinx's own extensions
     "sphinx.ext.autodoc",
     "sphinx.ext.extlinks",
@@ -36,6 +35,7 @@ extensions = [
     "myst_parser",
     "sphinx_design",
     "sphinx_inline_tabs",
+    "noop" # used to ignore specific directives to make the HTML manual
 ]
 
 external_toc_path = "_toc.yaml" # "toc" for Table of Contents, this is the navigation
