@@ -32,9 +32,9 @@ extensions = [
     # Our custom extension, only meant for Furo's own documentation.
     # "furo.sphinxext",
     # External stuff
-    # "myst_parser",
-    # "sphinx_design",
-    # "sphinx_inline_tabs",
+    "myst_parser",
+    "sphinx_design",
+    "sphinx_inline_tabs",
     "noop" # used to ignore specific directives to make the HTML manual
 ]
 
