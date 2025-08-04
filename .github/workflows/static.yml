@@ -40,9 +40,9 @@ jobs:
         run: |
           uv venv
           uv sync --all-extras
-          uv pip install myst-parser
-          uv pip install sphinx-design
-          uv pip install sphinx_inline_tabs
+          uv pip install --upgrade myst-parser
+          uv pip install --upgrade sphinx-design
+          uv pip install --upgrade sphinx_inline_tabs
           make html
       - name: Set up Pages
         uses: actions/configure-pages@v5
