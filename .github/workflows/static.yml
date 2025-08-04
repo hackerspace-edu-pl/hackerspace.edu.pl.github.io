@@ -40,6 +40,7 @@ jobs:
         run: |
           uv venv
           uv sync --all-extras
+          uv pip install myst-parser
           make html
       - name: Set up Pages
         uses: actions/configure-pages@v5
