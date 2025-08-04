@@ -24,4 +24,5 @@ w spisie tematów znajdują się także odnośniki do naszego repozytorium kodu,
 serwisy zaufane
 ---------------
 
-podobnie jak CCC oferujemy dostęp do usług za pomocą zabezpieczonych kanałów komunikacji aby ograniczyć prawdopodobieństwo naruszenia principia CIA oraz w celu integracji z zaprzyjaźnionymi serwisami.
+podobnie jak CCC ( The Chaos Computer Club e. V. (CCC) is Europe's largest association of hackers) oferujemy dostęp do usług za pomocą zabezpieczonych kanałów komunikacji aby ograniczyć prawdopodobieństwo naruszenia principia CIA (The CIA Triad—Confidentiality, Integrity, and Availability—is a guiding model in information security) oraz w celu integracji z zaprzyjaźnionymi serwisami.
+
