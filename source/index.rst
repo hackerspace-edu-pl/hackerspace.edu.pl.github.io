@@ -19,7 +19,7 @@ było by bardzo trudno wypisać tu wszystkie poszczególne tematy, pomocne może
 nasze serwisy
 -------------
 
-w spisie tematów znajdują się także odnośniki do naszego repozytorium kodu, systemu wyszukiwania informacji, systemu kursów, build serwera naszej dystrybucji systemu operacyjnego GNU/Linux BLUECORE-禅 (opartego o Gentoo Linux, a także inspirowanego pracą zespołu Pentoo i CLIP OS, system operacyjny stworzony przez ANSSI, Narodową Agencję Cyberbezpieczeństwa Francji) oraz inne...
+w spisie tematów znajdują się także odnośniki do naszego repozytorium kodu, systemu wyszukiwania informacji, systemu kursów, build serwera naszej dystrybucji systemu operacyjnego GNU/Linux BLUECORE-禅 (opartego o Gentoo Linux, a także inspirowanego pracą zespołu Pentoo i CLIP OS (system operacyjny stworzony przez ANSSI, Narodową Agencję Cyberbezpieczeństwa Francji)) oraz inne...
 
 serwisy zaufane
 ---------------
