@@ -2,7 +2,6 @@ root: index
 defaults:
   titlesonly: True
 
-subtrees:
 entries:
   - title: repozytorium kodu
     url: https://git.hackerspace.edu.pl
