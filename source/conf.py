@@ -23,6 +23,19 @@ extensions = [
    "sphinx_external_toc",
    "rst2pdf.pdfbuilder",
    "noop" # used to ignore specific directives to make the HTML manual
+       # Sphinx's own extensions
+    "sphinx.ext.autodoc",
+    "sphinx.ext.extlinks",
+    "sphinx.ext.intersphinx",
+    "sphinx.ext.mathjax",
+    "sphinx.ext.todo",
+    "sphinx.ext.viewcode",
+    # Our custom extension, only meant for Furo's own documentation.
+    "furo.sphinxext",
+    # External stuff
+    "myst_parser",
+    "sphinx_design",
+    "sphinx_inline_tabs",
 ]
 
 external_toc_path = "_toc.yaml" # "toc" for Table of Contents, this is the navigation
