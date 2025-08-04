@@ -1,13 +1,8 @@
 root: index
 defaults:
   titlesonly: True
+
 subtrees:
-- caption: User Guide
-  entries:
-  - file: guides/_index
-  - file: guides/databases/_index
-  - file: guides/email/_index
-- caption: Links
 entries:
   - title: repozytorium kodu
     url: https://git.hackerspace.edu.pl
