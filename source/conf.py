@@ -46,7 +46,12 @@ exclude_patterns = ['examples/*']
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-source_suffix = { ".md": "markdown" }
+# source_suffix = { ".md": "markdown" }
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.txt': 'markdown',
+    '.md': 'markdown',
+}
 html_title = "hackerspace.edu.pl"
 html_theme = 'furo'
 html_logo = 'assets/logo.png'
