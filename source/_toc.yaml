@@ -3,18 +3,18 @@ defaults:
   titlesonly: True
 
 subtrees:
-- caption: User Guide
+- caption: Repozytorium
   numbered: true
   entries:
-  - file: user_guide/sphinx
-  - file: user_guide/cli
-  - file: user_guide/api
-- caption: Example
+  - file: repo/database
+  - file: repo/database
+  - file: repo/database
+- caption: Labolatoria
   entries:
-  - file: example/index
+  - file: lab/index
     entries:
-    - file: example/subfolder/page
-    - glob: example/globfolder/*
+    - file: lab/subfolder/page
+    - glob: lab/globfolder/*
 - caption: Links
   entries:
   - title: repozytorium kodu
