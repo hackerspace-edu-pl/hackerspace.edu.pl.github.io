@@ -6,7 +6,7 @@ subtrees:
 - caption: Repozytorium
   numbered: true
   entries:
-  - file: repo/database
+  - file: repo/database/index
   - file: repo/database
   - file: repo/database
 - caption: Labolatoria
