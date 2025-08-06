@@ -7,8 +7,8 @@ subtrees:
   numbered: true
   entries:
   - file: repo/database/index
-  - file: repo/database
-  - file: repo/database
+  - file: repo/database/postgresql
+  - file: repo/database/mysql
 - caption: Labolatoria
   entries:
   - file: lab/index
