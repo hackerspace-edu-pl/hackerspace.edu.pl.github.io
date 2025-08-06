@@ -13,7 +13,7 @@ subtrees:
   entries:
   - file: lab/index
     entries:
-    - file: lab/subfolder/page
+    - file: lab/digital-forensics-labs/index
     - glob: lab/globfolder/*
 - caption: Links
   entries:
