@@ -2,7 +2,21 @@ root: index
 defaults:
   titlesonly: True
 
-entries:
+subtrees:
+- caption: User Guide
+  numbered: true
+  entries:
+  - file: user_guide/sphinx
+  - file: user_guide/cli
+  - file: user_guide/api
+- caption: Example
+  entries:
+  - file: example/index
+    entries:
+    - file: example/subfolder/page
+    - glob: example/globfolder/*
+- caption: Links
+  entries:
   - title: repozytorium kodu
     url: https://git.hackerspace.edu.pl
   - title: nasze kursy
