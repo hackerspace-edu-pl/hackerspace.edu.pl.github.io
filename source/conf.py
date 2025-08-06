@@ -38,7 +38,9 @@ extensions = [
     "noop" # used to ignore specific directives to make the HTML manual
 ]
 
-external_toc_exclude_missing = False  # optional, default: False
+myst_enable_extensions = ["colon_fence", "html_image"]
+
+external_toc_exclude_missing = True  # optional, default: False
 external_toc_path = "_toc.yaml" # "toc" for Table of Contents, this is the navigation
 templates_path = ['_templates']
 exclude_patterns = ['examples/*']
