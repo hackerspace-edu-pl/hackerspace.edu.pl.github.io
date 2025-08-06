@@ -8,6 +8,6 @@ entries:
   - title: nasze kursy
     url: https://code.hackerspace.edu.pl
   - title: bluecore-overlay
-    url: https://github.com/ostree/bluecore-overlay
+    url: https://git.hackerspace.edu.pl/hackerspace.edu.pl/bluecore-overlay
   - title: bluecore build server
     url: https://catalyst.hackerspace.edu.pl
