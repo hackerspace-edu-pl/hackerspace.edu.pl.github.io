@@ -1,0 +1,11 @@
+root: index
+defaults:
+  titlesonly: True
+
+entries:
+  - file: examples
+  - file: manual
+  - title: Docs on GitHub
+    url: https://github.com/hackerspace-edu-pl/hackerspace.edu.pl.github.io
+  - title: hackerspace.edu.pl on GitHub
+    url: https://github.com/hackerspace-edu-pl/hackerspace.edu.pl.github.io
