@@ -1,7 +1,7 @@
 .. image:: assets/logo.png
    :align: right
    :height: 150
-   :width:  150
+   :width:  175
 
 hackerspace to projekt mający na celu organizacje naszej pracy w utrzymaniu i doskonaleniu naszej wiedzy technicznej oraz umiejętności praktycznych w zakresie szeregu dziedzin, które stanowią dziś fundament funkcjonowania i rozwoju społeczeństwa. zakres naszej pracy
 
