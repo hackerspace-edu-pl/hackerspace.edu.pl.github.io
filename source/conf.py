@@ -39,4 +39,4 @@ html_favicon = 'assets/favicon.ico'
 
 # -- Options for PDF output --------------------------------------------------
 
-pdf_documents = [('manual', u'hackerspace', u'hackerspace documentation', u'hackerspace project'),]
+pdf_documents = [('manual', u'hackerspace', u'hackerspace', u'hackerspace project'),]
