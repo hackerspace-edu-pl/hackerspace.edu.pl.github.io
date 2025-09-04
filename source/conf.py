@@ -36,7 +36,7 @@ exclude_patterns = ['examples/*']
 html_theme = 'furo'
 html_logo = 'assets/logo.png'
 html_favicon = 'assets/favicon.ico'
-html_title = "hackerspace"
+html_title = "hackerspace@edu.pl"
 html_theme_options = {
     "sidebar_hide_name": True,
     "navigation_with_keys": True,
