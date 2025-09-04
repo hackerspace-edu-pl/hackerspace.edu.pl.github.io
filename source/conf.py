@@ -40,6 +40,9 @@ html_theme_options = {
     "sidebar_hide_name": True,
     "navigation_with_keys": True,
     "top_of_page_buttons": ["view", "edit"],
+    "source_repository": "https://github.com/hackerspace-edu-pl/hackerspace.edu.pl.github.io",
+    "source_branch": "main",
+    "source_directory": "source/",
 }
 
 # -- Options for PDF output --------------------------------------------------
