@@ -43,14 +43,6 @@ html_theme_options = {
     "source_repository": "https://github.com/hackerspace-edu-pl/hackerspace.edu.pl.github.io",
     "source_branch": "main",
     "source_directory": "source/",
-    "footer_icons": [
-        {
-            "name": "GitHub",
-            "url": "https://github.com/pradyunsg/furo",
-            "html": "",
-            "class": "fa-brands fa-solid fa-github fa-2x",
-        },
-    ],
 }
 html_css_files = [
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/fontawesome.min.css",
