@@ -44,6 +44,13 @@ html_theme_options = {
     "source_branch": "main",
     "source_directory": "source/",
 }
+html_css_files = [
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/fontawesome.min.css",
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/solid.min.css",
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/brands.min.css",
+]
+pygments_style = "sphinx"
+pygments_dark_style = "monokai"
 
 # -- Options for PDF output --------------------------------------------------
 
