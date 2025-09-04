@@ -36,6 +36,11 @@ exclude_patterns = ['examples/*']
 html_theme = 'furo'
 html_logo = 'assets/logo.png'
 html_favicon = 'assets/favicon.ico'
+html_theme_options = {
+    "sidebar_hide_name": True,
+    "navigation_with_keys": True,
+    "top_of_page_buttons": ["view", "edit"],
+}
 
 # -- Options for PDF output --------------------------------------------------
 
