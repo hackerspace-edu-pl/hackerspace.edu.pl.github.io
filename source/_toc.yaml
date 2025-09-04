@@ -1,7 +1,17 @@
 root: index
 defaults:
   titlesonly: True
-
+subtrees:
+- entries:
+  - file: doc1
+    subtrees:
+    - entries:
+      - file: doc2
+        subtrees:
+        - entries:
+          - file: doc3
+  - url: https://example.com
+  - glob: subfolder/other*
 entries:
   - title: bluecore-overlay
     url: https://github.com/ostree/bluecore-overlay
