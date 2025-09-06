@@ -8,9 +8,9 @@ subtrees:
         subtrees:
         - entries:
           - file: doc3
-  - title: repozytorium kodu       
-  - url: https://git.hackerspace.edu.pl
   - glob: subfolder/other*
 - entries:
   - title: bluecore-overlay
     url: https://github.com/ostree/bluecore-overlay
+  - title: repozytorium kodu       
+  - url: https://git.hackerspace.edu.pl
