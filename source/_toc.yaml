@@ -1,4 +1,6 @@
-root: index                                                                                                                                                                 root: index
+root: index
+defaults:
+  titlesonly: True
 subtrees:
 - entries:
   - file: doc1
@@ -7,10 +9,9 @@ subtrees:
       - file: doc2
         subtrees:
         - entries:
-          - file: doc3             
+          - file: doc3
+  - url: https://example.com
   - glob: subfolder/other*
 entries:
   - title: bluecore-overlay
     url: https://github.com/ostree/bluecore-overlay
-  - title: repozytorium kodu       
-    url: https://git.hackerspace.edu.pl
