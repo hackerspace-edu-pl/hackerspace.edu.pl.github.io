@@ -8,6 +8,7 @@ subtrees:
         subtrees:
         - entries:
           - file: doc3
+  - title: repozytorium kodu       
   - url: https://git.hackerspace.edu.pl
   - glob: subfolder/other*
 - entries:
