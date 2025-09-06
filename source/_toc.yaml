@@ -8,7 +8,7 @@ subtrees:
         subtrees:
         - entries:
           - file: doc3
-  - url: https://example.com
+  - url: https://git.hackerspace.edu.pl
   - glob: subfolder/other*
 - entries:
   - title: bluecore-overlay
