@@ -8,7 +8,7 @@ subtrees:
         subtrees:
         - entries:
           - file: doc3
-  - title: ZASOBY BIBLIOTECZNE        
+  title: ZASOBY BIBLIOTECZNE        
   - glob: subfolder/other*
 - entries:
   - title: bluecore-overlay
