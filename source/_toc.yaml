@@ -1,4 +1,4 @@
-                                                                                                                                                                 root: index
+root: index                                                                                                                                                                 root: index
 subtrees:
 - entries:
   - file: doc1
