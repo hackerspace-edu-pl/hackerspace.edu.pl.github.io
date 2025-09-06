@@ -7,9 +7,8 @@ subtrees:
       - file: doc2
         subtrees:
         - entries:
-          - file: doc3
-  - title: repozytorium kodu       
-  - url: https://git.hackerspace.edu.pl       
+          - file: doc3      
+  - url: https://hackerspace.edu.pl       
   - glob: subfolder/other*
 - entries:
   - title: bluecore-overlay
