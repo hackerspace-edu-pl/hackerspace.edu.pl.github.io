@@ -14,4 +14,4 @@ subtrees:
   - title: bluecore-overlay
     url: https://github.com/ostree/bluecore-overlay
   - title: repozytorium kodu       
-  - url: https://git.hackerspace.edu.pl
+    url: https://git.hackerspace.edu.pl
