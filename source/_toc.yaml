@@ -10,7 +10,6 @@ subtrees:
         subtrees:
         - entries:
           - file: doc3
-  - url: https://example.com
   - glob: subfolder/other*
 - entries:
   - title: bluecore-overlay
