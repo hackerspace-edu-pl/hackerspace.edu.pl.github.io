@@ -12,5 +12,7 @@ subtrees:
           - file: doc3
   - glob: subfolder/other*
 - entries:
+  - title: repozytorium kodu
+    url: https://git.hackerspace.edu.pl
   - title: bluecore-overlay
     url: https://github.com/ostree/bluecore-overlay
