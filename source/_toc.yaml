@@ -18,6 +18,10 @@ subtrees:
         subtrees:
         - entries:
           - file: doc6
+      - file: doc7
+        subtrees:
+        - entries:
+          - file: doc8
   - glob: subfolder/other*
 - entries:
   - title: repozytorium kodu
