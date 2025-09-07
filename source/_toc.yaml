@@ -22,6 +22,24 @@ subtrees:
         subtrees:
         - entries:
           - file: doc8
+ - entries:
+  - file: doc9
+    subtrees:
+    - entries:
+      - file: doc10
+        subtrees:
+        - entries:
+          - file: doc11
+      - file: doc12
+        subtrees:
+        - entries:
+          - file: doc13
+  - title: linki do zasobow
+  - entries:
+    - title: repozytorium kodu
+      url: https://git.hackerspace.edu.pl
+    - title: bluecore-overlay
+      url: https://github.com/ostree/bluecore-overlay
   - glob: subfolder/other*
 - entries:
   - title: repozytorium kodu
