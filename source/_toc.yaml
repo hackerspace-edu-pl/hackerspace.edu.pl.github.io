@@ -11,13 +11,13 @@ subtrees:
         - entries:
           - file: doc3
 - entries:
-  - file: doc1
+  - file: doc4
     subtrees:
     - entries:
-      - file: doc2
+      - file: doc5
         subtrees:
         - entries:
-          - file: doc3
+          - file: doc6
   - glob: subfolder/other*
 - entries:
   - title: repozytorium kodu
