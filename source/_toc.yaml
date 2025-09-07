@@ -10,8 +10,7 @@ subtrees:
         subtrees:
         - entries:
           - file: doc3
-  subtrees:
-  - entries:
+- entries:
   - file: doc1
     subtrees:
     - entries:
