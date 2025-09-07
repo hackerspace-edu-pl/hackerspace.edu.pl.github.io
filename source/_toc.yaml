@@ -23,7 +23,6 @@ subtrees:
         - entries:
           - file: doc8
   - glob: subfolder/other*
-- title: linki do zasobow
 - entries:
   - title: repozytorium kodu
     url: https://git.hackerspace.edu.pl
