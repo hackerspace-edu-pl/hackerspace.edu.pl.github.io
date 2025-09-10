@@ -4,15 +4,15 @@ defaults:
 subtrees:
 - entries:
   - file: doc4
+  subtrees:
+  - entries:
+    - file: doc1
     subtrees:
     - entries:
-      - file: doc1
-        subtrees:
-        - entries:
-          - file: doc2
-        subtrees:
-        - entries:
-          - file: doc3
+      - file: doc2
+      subtrees:
+      - entries:
+        - file: doc3
       - file: doc5
         subtrees:
         - entries:
