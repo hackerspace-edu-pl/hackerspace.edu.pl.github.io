@@ -1,5 +1,4 @@
 root: index
-root: intro
 options:
   caption: Subtree Caption
   hidden: False
