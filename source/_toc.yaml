@@ -2,13 +2,13 @@ root: index
 subtrees:
 - entries:
   - file: doc1
+  - title: repozytorium kodu
+    url: https://git.hackerspace.edu.pl
+  - title: bluecore-overlay
+    url: https://git.hackerspace.edu.pl/hackerspace.edu.pl/bluecore-overlay
     subtrees:
     - entries:
       - file: doc2
         subtrees:
         - entries:
           - file: doc3
-    - title: repozytorium kodu
-      url: https://git.hackerspace.edu.pl
-    - title: bluecore-overlay
-      url: https://git.hackerspace.edu.pl/hackerspace.edu.pl/bluecore-overlay
