@@ -1,27 +1,18 @@
 root: index
-defaults:
+root: intro
+options:
+  caption: Subtree Caption
+  hidden: False
+  maxdepth: 1
+  numbered: True
+  reversed: False
   titlesonly: True
-subtrees:
-- entries:
-  - file: doc4
-  subtrees:
-  - entries:
-    - file: doc1
-    subtrees:
-    - entries:
-      - file: doc2
-      subtrees:
-      - entries:
-        - file: doc3
-    - file: doc5
-    subtrees:
-    - entries:
-      - file: doc6
-      - file: doc7
-      subtrees:
-      - entries:
-        - file: doc8
-  - glob: subfolder/other*
+entries:
+- file: doc1
+  options:
+    titlesonly: True
+  entries:
+  - file: doc2
 - entries:
   - title: repozytorium kodu
     url: https://git.hackerspace.edu.pl
