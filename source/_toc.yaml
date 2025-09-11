@@ -6,8 +6,9 @@ options:
   numbered: True
   reversed: False
   titlesonly: True
-entries:
-- file: doc1
+subtrees:
+- entries:
+  - file: doc1
   options:
     titlesonly: True
   entries:
